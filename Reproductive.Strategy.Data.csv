@@ -1,0 +1,270 @@
+Unique ID,Count by,Tube ID,Individual ID,Location,Species,host,Generation,Image taken,Abdomen length,Abdomen height,Abdomen width,Tibia length,Wing length,Avg egg width,Avg egg length,Egg Count,Collection Type,Entered by,Notes
+137,AR,128,a,ABS,B. fossoria,Qg,Asexual,y,1.382,1.186,1.044,1.125,2.356,0.0892,0.1118,202,Field,AR,
+106,AR,146,b,LL,B. fossoria,Qg,Asexual,y,1.174,1.038,0.837,0.819,0.701,0.0836,0.1122,116,Field,AR,
+138,AR,470,a,ABS,B. fossoria,Qg,Asexual,y,1.49,1.282,1.161,1.225,2.084,0.0878,0.1152,257,Field,AR,
+104,AR,605,a,ABS,B. fossoria,Qg,Asexual,y,1.37,1.178,1.06,1.109,NA,0.085,0.1142,181,Field,AR,
+88,AR,103A,a,LL,B. fossoria,Qg,Asexual,y,1.457,1.116,0.95,0.989,2.257,0.0838,0.1112,168,Field,AR,attached width probably slight overestimate; wing is left wing
+131,AR,12A,a,ABS,B. fossoria,Qg,Asexual,y,1.015,0.804,0.754,0.703,NA,NA,NA,0,Field,AR,wings shriveled; abdomen measurements before detached (deformed after). May have been the wrong wasp? No eggs
+89,AR,141A,a,ABS,B. fossoria,Qg,Asexual,y,1.282,0.837,0.809,1.059,2.149,0.096,0.1224,161,Field,AR,
+124,AR,141A,b,ABS,B. fossoria,Qg,Asexual,y,1.125,1.079,0.825,0.928,1.926,NA,NA,NA,Field,AR,abdomen somewhere in vicinity of microscope (not image microscope)
+141,AR,141A,c,ABS,B. fossoria,Qg,Asexual,y,1.147,1.011,0.83,0.971,1.966,0.0756,0.1102,180,Field,AR,
+76,AR,142A,a,ABS,B. fossoria,,Asexual,y,1.559,1.328,1.163,1.217,NA,0.085,0.113,342,Nat. Col.,AR,no wings
+112,AR,142A,b,ABS,B. fossoria,,Asexual,y,1.431,1.287,1.205,0.981,2.047,0.0978,0.1226,159,Nat. Col.,AR,wing in two pieces when measured
+118,AR,142A,c,ABS,B. fossoria,,Asexual,y,1.674,1.451,1.17,1.113,NA,0.1004,0.1226,220,Nat. Col.,AR,
+156,AR,142A,d,ABS,B. fossoria,,Asexual,y,1.536,1.189,0.804,0.991,1.841,0.0956,0.1192,84,Nat. Col.,AR,
+142,AR,143A,a,ABS,B. fossoria,Qg,Asexual,y,1.299,0.936,0.887,0.866,1.685,0.0872,0.1058,148,Field,AR,wing length is left
+75,AR,146A,a,LL,B. fossoria,Qg,Asexual,y,1,0.86,0.761,0.67,1.506,0.0804,0.1098,59,Field,AR,
+151,AR,146A,c,LL,B. fossoria,Qg,Asexual,y,1.401,1.203,0.935,0.929,1.995,0.0896,0.1144,102,Field,AR,
+90,AR,191A,a,Dick,B. fossoria,,Asexual,y,1.648,1.262,1.343,1.082,NA,0.0994,0.1328,225,Nat. Col.,AR,wing shriveled
+15,AR,195A,a,ABS,B. fossoria,,Asexual,y,1.379,,NA,1.101,2.106,NA,NA,NA,Nat. Col.,AR,
+49,AR,195A,b,ABS,B. fossoria,,Asexual,y,1.248,,0.928,1.095,NA,0.0816,0.1175,203,Nat. Col.,AR,
+55,AR,195A,c,ABS,B. fossoria,,Asexual,y,1.283,,1.859,0.888,1.755,0.09095,0.1253,76,Nat. Col.,AR,Broke this one with forceps in tube-- could be a lower number than accurate
+162,AR,215B,a,LL,B. fossoria,Qg,Asexual,y,1.33,0.975,0.806,0.869,2.195,NA,NA,NA,Field,AR,left wing
+47,AR,225B,a,ABS,B. fossoria,,Asexual,y,1.389,,1.059,1.08,1.979,0.09335,0.12015,190,Nat. Col.,AR,
+14,AR,229B,a,ABS,B. fossoria,,Asexual,y,1.402,,NA,1.292,2.023,0.0844,0.1059,392,Nat. Col.,AR,
+114,AR,232B,a,Dick,B. fossoria,,Asexual,y,1.362,1.216,1.16,1.117,NA,0.0918,0.116,265,Nat. Col.,AR,
+94,AR,235A,a,ABS,B. fossoria,Qg,Asexual,y,1.32,1.018,0.902,0.989,NA,0.0926,0.116,134,Field,AR,
+85,AR,243A,a,Dick,B. fossoria,,Asexual,y,1.353,1.295,0.943,1.078,2.356,0.097,0.1186,186,Nat. Col.,AR,
+102,AR,243A,b,Dick,B. fossoria,,Asexual,y,1.34,1.326,1.174,1.003,2.127,0.0922,0.1184,193,Nat. Col.,AR,
+146,AR,243A,c,Dick,B. fossoria,,Asexual,y,1.681,1.563,1.234,1.15,2.67,0.0952,0.1228,278,Nat. Col.,AR,
+174,AR,243A,d,Dick,B. fossoria,,Asexual,y,1.684,1.75,1.38,1.3,2.412,0.0906,0.1194,349,Nat. Col.,AR,
+181,AR,243A,e,Dick,B. fossoria,,Asexual,y,1.664,1.561,1.288,1.213,2.58,0.0988,0.1148,304,Nat. Col.,AR,
+193,AR,243A,f,Dick,B. fossoria,,Asexual,y,1.502,1.523,1.209,1.2,2.597,0.0948,0.1194,333,Nat. Col.,AR,
+57,AR,246A,a,ABS,B. fossoria,,Asexual,y,1.266,,0.901,1.084,1.868,0.09115,0.1227,168,Nat. Col.,AR,
+77,AR,250A,a,Dick,B. fossoria,,Asexual,y,1.851,1.804,1.71,1.265,2.587,0.0926,0.1198,295,Nat. Col.,AR,the abdomen was squished on removal
+108,AR,250A,b,Dick,B. fossoria,,Asexual,y,1.779,1.611,1.398,1.335,NA,0.092,0.114,290,Nat. Col.,AR,
+120,AR,250A,c,Dick,B. fossoria,,Asexual,y,1.585,1.616,1.313,1.152,2.363,0.0972,0.117,128,Nat. Col.,AR,
+145,AR,250A,d,Dick,B. fossoria,,Asexual,y,1.584,1.579,1.387,1.072,NA,0.1002,0.1226,257,Nat. Col.,AR,
+167,AR,250A,e,Dick,B. fossoria,,Asexual,y,1.627,1.654,1.329,1.176,2.535,0.1026,0.1262,264,Nat. Col.,AR,wing length is estimate
+184,AR,250A,f,Dick,B. fossoria,,Asexual,y,1.568,1.365,1.076,0.908,1.981,0.0888,0.112,170,Nat. Col.,AR,abdomen attached; egg number could be inaccurate (slide flipped upside down)
+28,AR,276A,a,Dick,B. fossoria,,Asexual,y,1.048,,0.89,0.675,1.243,0.08155,0.10395,78,Nat. Col.,AR,
+29,AR,276A,b,Dick,B. fossoria,,Asexual,y,1.412,,1.313,1.155,2.122,0.0908,0.12165,295,Nat. Col.,AR,
+34,AR,276A,c,Dick,B. fossoria,,Asexual,y,1.653,,1.295,1.044,2.53,0.0863,0.10805,229,Nat. Col.,AR,
+37,AR,276A,d,Dick,B. fossoria,,Asexual,y,1.332,,1.261,1.182,2.234,0.08775,0.1119,239,Nat. Col.,AR,
+38,AR,276A,e,Dick,B. fossoria,,Asexual,y,1.507,,1.119,0.973,2.135,0.08095,0.107,120,Nat. Col.,AR,
+84,AR,278A,a,ABS,B. fossoria,Qg,Asexual,n,1.18,1.068,0.87,1.014,2.061,0.0818,0.1114,209,Field,AR,
+54,AR,287A,a,ABS,B. fossoria,,Asexual,y,1.626,,1.19,1.191,NA,0.08395,0.11075,321,Nat. Col.,AR,
+134,AR,292A,a,ABS,B. fossoria,Qg,Asexual,n,1.451,1.265,1.054,1.1,2.244,0.0788,0.1038,152,Field,AR,
+1,AR,305A,a,LL,B. fossoria,,Asexual,y,1.805,,NA,1.121,2.141,0.08745,0.0999,389,Nat. Col.,AR,Scope specifications: LED SLI extension lights at 90% (8 clicks of the + button)
+2,AR,305A,b,LL,B. fossoria,,Asexual,y,1.654,,NA,1.035,2.167,0.0799,0.10065,310,Nat. Col.,AR,"Bottom light turned off (keep on 40%), left light as RC"
+4,AR,306A,a,LL,B. fossoria,,Asexual,y,1.516,,NA,1,2.414,0.0882,0.1062,241,Nat. Col.,AR,dead
+5,AR,306A,b,LL,B. fossoria,,Asexual,y,1.165,,NA,0.819,1.635,0.0866,0.11,127,Nat. Col.,AR,dead
+6,AR,306A,c,LL,B. fossoria,,Asexual,y,1.54,,NA,1.04,2.007,0.0888,0.11425,132,Nat. Col.,AR,dead
+7,AR,306A,d,LL,B. fossoria,,Asexual,y,1.417,,NA,0.89,1.877,0.0928,0.1159,143,Nat. Col.,AR,dead
+8,AR,306A,e,LL,B. fossoria,,Asexual,y,1.775,,NA,1.049,2.265,0.08725,0.1062,258,Nat. Col.,AR,dead
+9,AR,306A,f,LL,B. fossoria,,Asexual,y,1.504,,NA,0.858,1.8,0.08875,0.11,107,Nat. Col.,AR,dead
+10,AR,306A,g,LL,B. fossoria,,Asexual,y,1.759,,NA,1.153,2.161,0.0919,0.11431579,214,Nat. Col.,AR,dead; some remain in tube
+3,AR,307A,a,LL,B. fossoria,,Asexual,y,1.462,,NA,0.914,2.731,0.0873,0.1054,231,Nat. Col.,AR,Wing and abdomen msmts on 0.8 setting; tibia on 0.5
+177,AR,308A,a,LL,B. fossoria,,Asexual,y,1.638,1.433,1.287,1.16,2.591,0.1058,0.123,376,Nat. Col.,AR,
+183,AR,344B,a,LL,B. fossoria,,Asexual,y,1.303,1.168,0.895,1.117,2.269,0.0972,0.1196,206,Nat. Col.,AR,wing on; abd from above
+171,AR,349A,a,LL,B. fossoria,,Asexual,y,2.063,1.84,1.318,1.304,2.765,0.0942,0.1252,414,Nat. Col.,AR,count could be slightly greater as finger may have moved eggs
+182,AR,349A,b,LL,B. fossoria,,Asexual,y,1.715,1.292,1.26,1.242,2.336,0.1042,0.1264,298,Nat. Col.,AR,
+192,AR,349A,c,LL,B. fossoria,,Asexual,y,1.472,1.118,1.092,1.011,1.898,0.0964,0.122,219,Nat. Col.,AR,
+19,AR,355A,a,Dick,B. fossoria,,Asexual,y,1.75,,NA,0.86,2.244,0.0959,0.1094,113,Nat. Col.,AR,
+21,AR,355A,b,Dick,B. fossoria,,Asexual,y,1.786,,NA,1.232,2.5,0.08595,0.1015,395,Nat. Col.,AR,
+45,AR,355A,c,Dick,B. fossoria,,Asexual,y,1.419,,1.321,1.122,2.165,0.082,0.1072,228,Nat. Col.,AR,
+51,AR,355A,d,Dick,B. fossoria,,Asexual,y,1.476,,1.202,1.12,2.179,0.09165,0.11035,240,Nat. Col.,AR,
+62,AR,355A,d,Dick,B. fossoria,,Asexual,y,1.404,,1.364,1.228,2.546,0.0972,0.1184,257,Nat. Col.,AR,
+74,AR,356A,a,Dick,B. fossoria,,Asexual,y,1.589,1.652,1.374,1.158,2.211,0.0868,0.114,262,Nat. Col.,AR,
+126,AR,356A,b,Dick,B. fossoria,,Asexual,y,1.57,1.48,1.267,1.104,2.275,0.0966,0.1268,278,Nat. Col.,AR,
+191,AR,356A,c,Dick,B. fossoria,,Asexual,y,1.579,1.539,1.341,1.184,2.098,0.0942,0.1222,255,Nat. Col.,AR,
+83,AR,365A,a,LL,B. fossoria,Qg,Asexual,y,1.087,0.826,0.614,0.86,1.516,0.0802,0.1058,115,Field,AR,
+122,AR,365A,b,LL,B. fossoria,Qg,Asexual,y,0.927,0.813,0.513,0.743,1.357,0.0826,0.105,69,Field,AR,
+96,AR,421A,a,Dick,B. fossoria,,Asexual,y,1.677,1.589,1.538,1.14,2.391,0.0922,0.1198,261,Nat. Col.,AR,abdpmen deformed on removal
+166,AR,426A,a,Dick,B. fossoria,,Asexual,y,1.681,1.849,1.34,1.121,2.308,0.094,0.1176,288,Nat. Col.,AR,
+42,AR,444A,a,ABS,B. fossoria,,Asexual,y,1.417,,1.119,1.056,2.092,0.0839,0.1122,266,Nat. Col.,AR,
+59,AR,444A,b,ABS,B. fossoria,,Asexual,y,1.427,,1.024,1.154,2.448,0.0864,0.1131,282,Nat. Col.,AR,
+73,AR,463B,a,ABS,B. fossoria,Qg,Asexual,y,1.22,0.981,0.788,1.086,2.175,0.0872,0.117,185,Field,AR,"wing broke, realigned to measure"
+100,AR,463B,b,ABS,B. fossoria,Qg,Asexual,y,1.258,1.084,0.844,1.133,2.349,0.0848,0.1142,225,Field,AR,
+92,AR,510A,a,LL,B. fossoria,,Asexual,y,1.709,1.521,1.472,1.246,2.579,0.0918,0.1266,355,Nat. Col.,AR,abdomen deformed on removal-- msmts attached to wasp more accurate; may be left wing
+72,AR,518A,a,LL,B. fossoria,,Asexual,y,1.781,1.477,1.386,1.237,2.799,0.092,0.1282,429,Nat. Col.,AR,squished the abomen a bit when I removed it (check equivalency of volume calculations); verified eggs are asexual shape
+98,AR,518A,b,LL,B. fossoria,,Asexual,y,1.617,1.274,1.247,1.105,NA,0.0982,0.1182,316,Nat. Col.,AR,
+170,AR,518A,c,LL,B. fossoria,,Asexual,n,NA,NA,NA,NA,NA,NA,NA,NA,Nat. Col.,AR,lost all but the right hind leg
+186,AR,518A,d,LL,B. fossoria,,Asexual,y,1.669,1.584,1.171,1.108,2.489,0.0986,0.1186,215,Nat. Col.,AR,
+188,AR,518A,e,LL,B. fossoria,,Asexual,y,1.758,1.472,1.408,1.2772,2.404,0.1028,0.1236,404,Nat. Col.,AR,
+116,AR,519A,a,LL,B. fossoria,,Asexual,y,1.708,1.596,1.25,1.19,2.436,0.097,0.1204,358,Nat. Col.,AR,
+175,AR,519A,b,LL,B. fossoria,,Asexual,y,1.849,1.582,1.348,1.136,2.342,0.1018,0.1214,211,Nat. Col.,AR,
+163,AR,534A,a,LL,B. fossoria,,Asexual,y,1.846,1.405,1.219,1.133,2.641,0.0912,0.1094,311,Nat. Col.,AR,
+195,AR,534A,b,LL,B. fossoria,,Asexual,y,1.7,1.509,1.201,1.202,2.683,0.0904,0.1224,289,Nat. Col.,AR,
+33,AR,558A,a,ABS,B. fossoria,,Asexual,y,1.128,,0.75,0.897,2.086,0.09205,0.1147,131,Nat. Col.,AR,
+157,AR,560A,a,LL,B. fossoria,,Asexual,y,1.558,1.398,1.247,1.311,2.358,0.0984,0.12,290,Nat. Col.,AR,
+179,AR,560A,b,LL,B. fossoria,,Asexual,y,1.683,1.611,1.33,1.224,2.433,0.0936,0.118,171,Nat. Col.,AR,
+190,AR,567A,a,LL,B. fossoria,,Asexual,y,1.841,1.621,1.437,1.307,1.143,0.0968,0.1252,475,Nat. Col.,AR,
+185,AR,569A,a,LL,B. fossoria,,Asexual,y,1.704,1.592,1.258,1.236,2.124,0.0958,0.1244,312,Nat. Col.,AR,
+180,AR,571A,a,LL,B. fossoria,,Asexual,y,1.867,1.231,1.141,1.117,2.541,0.107,0.1412,21,Nat. Col.,AR,abd length + width measured attached
+176,AR,575A,a,Dick,B. fossoria,,Asexual,y,1.757,1.497,1.071,1.159,2.367,0.1008,0.1228,207,Nat. Col.,AR,
+41,AR,576A,a,ABS,B. fossoria,,Asexual,y,1.399,,1.081,1.042,2.262,0.08875,0.1131,209,Nat. Col.,AR,
+110,AR,65A,a,LL,B. fossoria,Qg,Asexual,y,0.922,0.942,0.722,0.785,NA,0.0906,0.1154,93,Field,AR,wings shriveled up
+202,AR,JRO_OCH,a,OCH,B. fossoria,,Asexual,y,1.296,1.172,0.921,0.983,2.075,0.0836,0.1142,139,Nat. Col.,AR,left tibia
+203,AR,JRO_OCH,b,OCH,B. fossoria,,Asexual,y,1.578,1.584,1.451,1.235,2.441,0.0912,0.1186,282,Nat. Col.,AR,
+206,AR,JRO_OCH,c,OCH,B. fossoria,,Asexual,y,1.404,1.371,1.241,1.015,2.186,0.0878,0.1112,234,Nat. Col.,AR,left wing
+208,AR,JRO_OCH,d,OCH,B. fossoria,,Asexual,y,1.517,1.402,1.105,1.123,2.47,0.0894,0.1184,264,Nat. Col.,AR,
+212,AR,JRO_OCH,e,OCH,B. fossoria,,Asexual,y,1.501,1.127,1.122,1.11,2.377,0.0928,0.1182,323,Nat. Col.,AR,
+213,AR,JRO_OCH,f,OCH,B. fossoria,,Asexual,y,1.374,1.226,1.006,0.97,2.138,0.0954,0.1218,300,Nat. Col.,AR,
+214,AR,JRO_OCH,g,OCH,B. fossoria,,Asexual,y,1.501,1.237,1.018,0.995,2.022,0.086,0.1136,249,Nat. Col.,AR,
+215,AR,JRO_OCH,h,OCH,B. fossoria,,Asexual,y,1.208,1.114,1.071,0.891,2.025,0.0806,0.1074,207,Nat. Col.,AR,
+216,AR,JRO_OCH,i,OCH,B. fossoria,,Asexual,y,1.272,1.361,0.995,0.928,NA,0.0886,0.1204,241,Nat. Col.,AR,
+217,AR,JRO_OCH,j,OCH,B. fossoria,,Asexual,y,1.314,1.22,0.999,0.961,2.025,0.091,0.1156,187,Nat. Col.,AR,
+220,AR,JRO_OCH,k,OCH,B. fossoria,,Asexual,y,1.632,1.476,1.18,1.204,2.482,0.088,0.1238,248,Nat. Col.,AR,
+222,AR,JRO_OCH,k,OCH,B. fossoria,,Asexual,y,1.515,1.359,1.125,1.089,2.398,0.08,0.1144,289,Nat. Col.,AR,
+224,AR,JRO_OCH,l,OCH,B. fossoria,,Asexual,y,1.409,1.155,1.115,1.08,2.235,0.087,0.1192,209,Nat. Col.,AR,
+225,AR,JRO_OCH,m,OCH,B. fossoria,,Asexual,y,1.522,1.267,1.113,1.245,2.19,0.0902,0.1216,317,Nat. Col.,AR,
+228,AR,JRO_OCH,n,OCH,B. fossoria,,Asexual,y,1.522,1.371,1.058,1.155,2.032,0.0866,0.1172,310,Nat. Col.,AR,L wing
+229,AR,JRO_OCH,o,OCH,B. fossoria,,Asexual,y,1.166,0.955,0.851,0.774,1.786,0.0852,0.1172,120,Nat. Col.,AR,
+231,AR,JRO_OCH,p,OCH,B. fossoria,,Asexual,y,1.511,1.174,1.036,1.094,2.686,0.0888,0.1174,291,Nat. Col.,AR,
+236,AR,JRO_OCH,q,OCH,B. fossoria,,Asexual,y,1.416,1.009,0.844,1.011,2.018,0.0914,0.1224,180,Nat. Col.,AR,
+237,AR,JRO_OCH,r,OCH,B. fossoria,,Asexual,y,1.332,1.13,0.918,0.918,1.908,0.0924,0.1258,200,Nat. Col.,AR,
+238,AR,JRO_OCH,s,OCH,B. fossoria,,Asexual,y,1.512,1.257,1.039,1.068,2.369,0.0826,0.114,293,Nat. Col.,AR,L wing
+242,AR,JRO_OCH,t,OCH,B. fossoria,,Asexual,y,1.684,1.328,1.169,1.012,2.291,0.086,0.1164,274,Nat. Col.,AR,
+243,AR,JRO_OCH,u,OCH,B. fossoria,,Asexual,y,1.325,1.214,1.001,1.051,2.245,0.0832,0.1184,243,Nat. Col.,AR,
+244,AR,JRO_OCH,v,OCH,B. fossoria,,Asexual,y,1.484,1.087,1.037,1.094,2.349,0.0886,0.1264,279,Nat. Col.,AR,
+252,AR,JRO_OCH,w,OCH,B. fossoria,,Asexual,y,1.46,1.338,1.087,1.131,2.404,,,304,Nat. Col.,AR,
+253,AR,JRO_OCH,x,OCH,B. fossoria,,Asexual,y,1.526,1.195,1.002,1.001,2.144,,,253,Nat. Col.,AR,
+258,AR,JRO_OCH,y,OCH,B. fossoria,,Asexual,y,1.399,1.04,0.925,1.021,1.919,,,217,Nat. Col.,AR,
+260,AR,JRO_OCH,z,OCH,B. fossoria,,Asexual,y,1.157,1.061,0.779,0.85,1.804,,,145,Nat. Col.,AR,
+261,AR,JRO_OCH,aa,OCH,B. fossoria,,Asexual,y,1.449,1.171,1.071,1.019,2.187,,,247,Nat. Col.,AR,
+268,AR,JRO_OCH,ab,OCH,B. fossoria,,Asexual,y,1.258,1.187,0.961,0.914,1.97,,,188,Nat. Col.,AR,
+269,AR,JRO_OCH,ac,OCH,B. fossoria,,Asexual,y,,,,0.981,2.269,NA,NA,NA,Nat. Col.,AR,Abdomen lost
+154,AR,175B,a,Alva,B. treatae,Qv,Asexual,y,1.2,0.863,0.71,1.057,2.586,0.0832,0.1102,159,Field,AR,
+155,AR,175B,b,Alva,B. treatae,Qv,Asexual,y,1.129,0.992,0.722,1.04,2.696,0.085,0.1142,196,Field,AR,
+50,AR,217A,a,Okee,B. treatae,Qv,Asexual,y,1.078,,0.623,0.913,2.53,0.07345,0.10395,121,Cage,AR,
+43,AR,220A,a,Alva,B. treatae,Qv,Asexual,y,1.177,,0.741,1.125,2.342,0.0895,0.12175,7,Field,AR,
+53,AR,220A,b,Alva,B. treatae,Qv,Asexual,y,1.057,,0.573,0.882,2.249,0.07865,0.1121,98,Field,AR,
+18,AR,225A,a,Okee,B. treatae,Qv,Asexual,broke apart,0.948,,NA,0.861,2.697,0.0789,0.1091,40,Cage,AR,
+12,AR,237A,a,Okee,B. treatae,,Asexual,y,1.368,,NA,1.256,3.35,0.076,0.1102,184,Nat. Col.,AR,
+80,AR,277B,a,Alva,B. treatae,Qv,Asexual,y,0.875,0.802,0.565,0.898,2.525,0.0778,0.1072,95,Field,AR,
+20,AR,285A,a,Alva,B. treatae,Qv,Asexual,y,2.132,,NA,1.137,2.797,0.09175,0.10975,195,Field,AR,
+64,AR,285A,b,Alva,B. treatae,Qv,Asexual,y,1.174,,0.73,1.065,2.846,0.07545,0.1085,95,Field,AR,
+27,AR,304A,a,Alva,B. treatae,Qv,Asexual,y,1.217,,0.936,1.165,2.965,0.08335,0.11595,204,Cage,AR,"after this point, microscope recalibrated (should not affect measurements)"
+25,AR,312A,a,Alva,B. treatae,Qv,Asexual,y,1.029,,0.742,0.84,2.609,0.06605,0.09505,156,Cage,AR,may have been swapped before measurements
+39,AR,312A,b,Alva,B. treatae,Qv,Asexual,y,1.091,,0.695,0.929,2.347,0.0716,0.10285,190,Cage,AR,
+144,AR,314B,a,Alva,B. treatae,Qv,Asexual,y,1.062,0.966,0.673,0.9736,2.752,0.0888,0.1162,152,Field,AR,
+11,AR,331A,a,Alva,B. treatae,,Asexual,y,1.208,,NA,1.048,2.927,0.07095,0.1049,189,Nat. Col.,AR,not noted if dead from here down
+23,AR,333A,a,Alva,B. treatae,Qv,Asexual,y,1.19,,0.814,0.972,2.508,0.0793,0.1077,138,Cage,AR,
+32,AR,333A,b,Alva,B. treatae,Qv,Asexual,y,1.018,,0.568,0.875,2.528,0.07055,0.09885,128,Cage,AR,
+44,AR,333A,c,Alva,B. treatae,Qv,Asexual,y,0.819,,0.385,0.705,1.906,0.0703,0.09895,46,Cage,AR,
+71,AR,336A,a,Alva,B. treatae,Qv,Asexual,y,1.17,1.036,0.859,1.026,2.89,0.0828,0.109,180,Field,AR,
+82,AR,336A,b,Alva,B. treatae,Qv,Asexual,y,1.261,1.063,0.87,1.086,3.165,0.0788,0.1126,180,Field,AR,
+113,AR,336A,c,Alva,B. treatae,Qv,Asexual,y,1.272,0.989,0.821,0.975,2.982,0.085,0.1174,194,Field,AR,
+136,AR,336A,d,Alva,B. treatae,Qv,Asexual,y,1.314,1.274,1.157,1.125,2.905,0.0858,0.1138,231,Field,AR,
+143,AR,336A,e,Alva,B. treatae,Qv,Asexual,y,1.343,1.173,0.868,1.134,2.892,0.08,0.1134,208,Field,AR,
+16,AR,350A,a,Okee,B. treatae,Qv,Asexual,y,1.528,,NA,0.905,3.33,0.07195,0.0943,89,Cage,AR,
+17,AR,351A,a,Okee,B. treatae,Qv,Asexual,y,1.387,,NA,1.131,2.757,0.0756,0.10565,193,Cage,AR,
+22,AR,351A,b,Okee,B. treatae,Qv,Asexual,y,1.227,,0.873,1.069,2.484,0.0842,0.113,142,Cage,AR,
+26,AR,351A,c,Okee,B. treatae,Qv,Asexual,y,1.171,,0.744,1.039,2.739,0.07505,0.1036,128,Cage,AR,
+30,AR,351A,d,Okee,B. treatae,Qv,Asexual,y,1.303,,0.963,1.204,3.06,0.07775,0.1088,227,Cage,AR,
+40,AR,351A,e,Okee,B. treatae,Qv,Asexual,y,1.327,,0.964,1.133,2.879,0.0846,0.11515,274,Cage,AR,
+31,AR,431B,a,KRE,B. treatae,Qv,Asexual,y,0.918,,0.519,0.8,2.058,0.0758,0.10605,100,Cage,AR,
+48,AR,432B,a,KRE,B. treatae,Qv,Asexual,y,0.905,,0.557,0.885,2.149,0.0776,0.1102,73,Field,AR,
+46,AR,433B,a,KRE,B. treatae,Qv,Asexual,y,1.024,,0.536,0.916,2.462,0.0831,0.1115,83,Field,AR,
+36,AR,434B,a,KRE,B. treatae,Qv,Asexual,y,1.089,,0.621,1.036,2.84,0.08085,0.10955,137,Field,AR,
+24,AR,436B,a,KRE,B. treatae,Qv,Asexual,y,0.792,,0.422,NA,2.108,0.071705882,0.097,20,Field,AR,tibias missing
+35,AR,437B,a,KRE,B. treatae,Qv,Asexual,y,1.159,,0.677,1.123,2.9,0.08405,0.1152,221,Field,AR,
+52,AR,438B,a,KRE,B. treatae,Qv,Asexual,y,1.002,,0.636,NA,2.726,0.079,0.10975,165,Field,AR,
+58,AR,440B,a,KRE,B. treatae,Qv,Asexual,y,1.114,,0.888,0.984,NA,NA,NA,NA,Field,AR,part possibly cut off
+63,AR,441B,a,KRE,B. treatae,Qv,Asexual,y,0.963,,0.467,0.712,1.814,NA,NA,NA,Field,AR,
+56,AR,442B,a,KRE,B. treatae,Qv,Asexual,y,0.66,,0.439,0.687,2.055,0.0739,0.10865,32,Cage,AR,
+60,AR,443B,a,KRE,B. treatae,Qv,Asexual,y,1.239,,0.737,1.085,3.063,0.1086,0.0811,138,Cage,AR,
+61,AR,445B,a,KRE,B. treatae,Qv,Asexual,y,0.936,,0.561,NA,2.463,0.07955,0.11185,110,Field,AR,
+65,AR,446B,a,KRE,B. treatae,Qv,Asexual,y,0.966,,0.587,0.845,2.622,NA,NA,NA,Field,AR,
+66,AR,448B,a,KRE,B. treatae,Qv,Asexual,y,0.782,,0.424,0.685,1.901,0.07275,0.09805,28,Field,AR,
+67,AR,449B,a,KRE,B. treatae,Qv,Asexual,y-wet,1.093,,0.563,0.915,2.191,0.0849,0.1124,120,Field,AR,
+68,AR,451B,a,KRE,B. treatae,Qv,Asexual,y,0.744,,0.423,0.721,2.15,0.07395,0.10655,24,Field,AR,
+164,AR,512A,a,Alva,B. treatae,,Asexual,y,1.525,1.311,1.202,1.167,2.599,0.0964,0.1218,283,Nat. Col.,AR,
+87,AR,535A,a,Alva,B. treatae,Qv,Asexual,y,1.06,0.925,0.712,0.981,2.764,0.0828,0.1122,181,Field,AR,wing came off perfectly
+135,AR,535A,b,Alva,B. treatae,Qv,Asexual,y,1.238,0.842,0.751,1.155,2.908,0.082,0.112,134,Field,AR,
+13,AR,556A,a,Okee,B. treatae,,Asexual,y,1.311,,NA,1.186,3.116,0.0805,0.10555,241,Nat. Col.,AR,"wing broke, msmt is sum; weird dirt thing in tube"
+165,AR,601A,a,Alva,B. treatae,Qv,Asexual,y,1.211,0.83,0.656,0.962,2.588,NA,NA,NA,Field,AR,
+127,AR,JRO_KRE,a,KRE,B. treatae,,Asexual,y,1.147,1.13,0.746,1.076,3.153,0.0838,0.1124,213,Nat. Col.,AR,
+128,AR,JRO_KRE,b,KRE,B. treatae,,Asexual,y,1.466,1.192,0.957,1.229,3.479,0.0866,0.1154,223,Nat. Col.,AR,
+129,AR,JRO_KRE,c,KRE,B. treatae,,Asexual,y,1.362,1.234,1.039,1.165,2.979,0.0854,0.1162,231,Nat. Col.,AR,
+130,AR,JRO_KRE,d,KRE,B. treatae,,Asexual,y,1.374,1.144,1.419,1.253,3.282,0.08,0.103,284,Nat. Col.,AR,
+132,AR,JRO_KRE,e,KRE,B. treatae,,Asexual,y,1.253,1.003,0.818,1.006,2.716,0.076,0.1042,165,Nat. Col.,AR,
+133,AR,JRO_KRE,f,KRE,B. treatae,,Asexual,y,1.514,1.329,1.098,1.26,3.205,0.0744,0.1052,286,Nat. Col.,AR,
+139,AR,JRO_KRE,g,KRE,B. treatae,,Asexual,y,1.356,1.235,0.886,1.161,3.186,0.0846,0.112,261,Nat. Col.,AR,
+140,AR,JRO_KRE,h,KRE,B. treatae,,Asexual,y,1.442,1.436,1.141,1.229,3.298,0.0856,0.1158,257,Nat. Col.,AR,
+147,AR,JRO_KRE,i,KRE,B. treatae,,Asexual,y,1.304,1.285,1.006,1.153,3.127,0.0812,0.11,270,Nat. Col.,AR,
+148,AR,JRO_KRE,j,KRE,B. treatae,,Asexual,y,1.366,1.147,0.924,1.155,3.152,0.085,0.1072,265,Nat. Col.,AR,
+152,AR,JRO_KRE,k,KRE,B. treatae,,Asexual,y,1.219,0.943,0.764,1.004,2.841,0.079,0.1036,174,Nat. Col.,AR,
+153,AR,JRO_KRE,l,KRE,B. treatae,,Asexual,y,1.331,1.065,0.852,1.093,2.851,0.0816,0.1068,228,Nat. Col.,AR,
+168,AR,JRO_KRE,m,KRE,B. treatae,,Asexual,y,1.255,1.124,0.893,1.267,3.225,0.083,0.1126,269,Nat. Col.,AR,
+169,AR,JRO_KRE,n,KRE,B. treatae,,Asexual,y,1.351,1.037,0.871,1.206,3.107,0.079,0.1074,310,Nat. Col.,AR,"abdomen lost, then found-- verified with measurements"
+196,AR,JRO_KRE,p,KRE,B. treatae,,Asexual,y,1.461,1.084,0.919,1.244,3.383,0.0756,0.1084,330,Nat. Col.,AR,
+223,AR,JRO_KRE,q,KRE,B. treatae,,Asexual,y,1.299,1.182,0.907,1.083,2.841,0.0878,0.1178,208,Nat. Col.,AR,
+227,AR,JRO_KRE,r,KRE,B. treatae,,Asexual,y,1.473,1.067,0.965,1.183,3.123,0.0844,0.1104,225,Nat. Col.,AR,
+239,AR,JRO_KRE,s,KRE,B. treatae,,Asexual,y,1.47,1.215,0.949,1.25,3.196,0.0824,0.116,274,Nat. Col.,AR,L wing
+240,AR,JRO_KRE,t,KRE,B. treatae,,Asexual,y,1.391,1.341,1.033,1.183,3.199,0.0782,0.1058,170,Nat. Col.,AR,
+241,AR,JRO_KRE,u,KRE,B. treatae,,Asexual,y,1.214,1.018,0.759,1.18,3.414,0.0814,0.113,230,Nat. Col.,AR,
+245,AR,JRO_KRE,v,KRE,B. treatae,,Asexual,y,1.365,1.215,0.945,1.225,3.294,0.085,0.1168,245,Nat. Col.,AR,
+246,AR,JRO_KRE,w,KRE,B. treatae,,Asexual,y,1.413,1.181,1.006,1.159,3.251,0.0814,0.1104,319,Nat. Col.,AR,
+247,AR,JRO_KRE,x,KRE,B. treatae,,Asexual,y,1.397,1.023,0.91,1.201,3.308,0.0756,0.112,290,Nat. Col.,AR,
+259,AR,JRO_KRE,y,KRE,B. treatae,,Asexual,y,1.432,1.129,0.912,1.204,2.946,,,205,Nat. Col.,AR,
+262,AR,JRO_KRE,z,KRE,B. treatae,,Asexual,y,1.412,1.293,0.94,1.282,3.315,,,357,Nat. Col.,AR,
+263,AR,JRO_KRE,aa,KRE,B. treatae,,Asexual,y,1.27,1.082,0.807,1.235,3.243,,,255,Nat. Col.,AR,
+264,AR,JRO_KRE,ab,KRE,B. treatae,,Asexual,y,1.293,1.1,0.873,1.113,3.163,,,241,Nat. Col.,AR,L wing
+265,AR,JRO_KRE,ac,KRE,B. treatae,,Asexual,y,1.423,0.289,0.933,1.197,3.115,,,284,Nat. Col.,AR,
+266,AR,JRO_KRE,ad,KRE,B. treatae,,Asexual,y,1.337,1.01,0.853,1.052,2.787,,,198,Nat. Col.,AR,
+267,AR,JRO_KRE,ae,KRE,B. treatae,,Asexual,y,1.252,0.986,,1.131,3.177,NA,NA,NA,Nat. Col.,AR,Abdomen lost
+200,AR,LZ_tube_4341,a,HS,B. treatae,,Asexual,y,1.323,1.11,0.918,1.164,2.909,0.0792,0.1078,123,Nat. Col.,AR,
+201,AR,LZ_tube_4341,b,HS,B. treatae,,Asexual,y,1.267,1.141,0.812,1.114,2.882,0.0852,0.1138,142,Nat. Col.,AR,
+204,AR,LZ_tube_4341,c,HS,B. treatae,,Asexual,y,1.428,1.376,1.003,1.194,3.042,0.084,0.1166,181,Nat. Col.,AR,
+251,AR,LZ_tube_4341,d,HS,B. treatae,,Asexual,y,1.298,1.244,0.864,1.121,2.903,0.0868,0.1178,150,Nat. Col.,AR,
+207,AR,LZ_tube_4371,a,HS,B. treatae,,Asexual,y,1.316,1.273,0.909,1.179,3.055,0.0804,0.1084,93,Nat. Col.,AR,
+249,AR,LZ_tube_4371,b,HS,B. treatae,,Asexual,y,1.351,1.17,0.934,1.105,2.968,0.084,0.1242,190,Nat. Col.,AR,
+95,AR,LZ_tube_4380,a,LG,B. treatae,,Asexual,y,1.23,1.118,NA,0.951,1.978,NA,NA,NA,Nat. Col.,AR,abdomen misplaced
+115,AR,LZ_tube_4380,b,LG,B. treatae,,Asexual,y,1.483,1.074,0.958,1.046,2.182,0.0934,0.1148,255,Nat. Col.,AR,
+187,AR,LZ_tube_4380,c,LG,B. treatae,,Asexual,y,1.295,1.199,0.975,1.019,2.118,0.0898,0.1168,221,Nat. Col.,AR,
+210,AR,LZ_tube_4381,a,HS,B. treatae,,Asexual,y,1.143,1.169,0.77,0.583,2.608,0.0878,0.1162,118,Nat. Col.,AR,
+221,AR,LZ_tube_4381,b,HS,B. treatae,,Asexual,y,1.398,1.185,0.925,1.124,2.981,0.0826,0.1216,163,Nat. Col.,AR,
+230,AR,LZ_tube_4381,c,HS,B. treatae,,Asexual,y,1.225,1.262,0.889,1.122,3.303,0.089,0.1176,184,Nat. Col.,AR,
+232,AR,LZ_tube_4381,d,HS,B. treatae,,Asexual,y,1.224,1.087,0.891,1.092,2.866,0.0896,0.1192,139,Nat. Col.,AR,
+235,AR,LZ_tube_4381,e,HS,B. treatae,,Asexual,y,1.269,1.315,0.845,1.136,3.26,0.079,0.1088,172,Nat. Col.,AR,
+250,AR,LZ_tube_4381,f,HS,B. treatae,,Asexual,y,1.224,1.216,0.848,1.117,2.94,0.0866,0.12,165,Nat. Col.,AR,
+254,AR,LZ_tube_4381,g,HS,B. treatae,,Asexual,y,1.284,1.086,0.86,1.072,2.74,,,117,Nat. Col.,AR,L wing
+256,AR,LZ_tube_4381,h,HS,B. treatae,,Asexual,y,1.254,1.264,0.77,1.126,3.056,,,153,Nat. Col.,AR,
+69,AR,LZ_tube_4384,a,HS,B. treatae,,Asexual,y,1.327,1.308,0.803,1.101,3.074,0.088285714,0.119571429,163,Nat. Col.,AR,"wing is left, starting with this one removed wing from body to measure"
+78,AR,LZ_tube_4384,b,HS,B. treatae,,Asexual,y,1.38,1.328,0.905,1.224,3.347,0.0858,0.1166,227,Nat. Col.,AR,
+197,AR,LZ_tube_4384,c,HS,B. treatae,,Asexual,y,1.221,1.232,0.896,1.208,1.261,0.0876,0.1164,215,Nat. Col.,AR,
+198,AR,LZ_tube_4384,d,HS,B. treatae,,Asexual,y,1.304,1.225,0.897,1.144,3.174,0.087,0.116,161,Nat. Col.,AR,
+199,AR,LZ_tube_4384,e,HS,B. treatae,,Asexual,y,1.089,1.114,0.784,1.099,2.845,0.0822,0.1118,148,Nat. Col.,AR,
+209,AR,LZ_tube_4384,f,HS,B. treatae,,Asexual,y,1.338,1.032,1.244,1.238,3.203,0.084,0.1138,212,Nat. Col.,AR,
+211,AR,LZ_tube_4384,g,HS,B. treatae,,Asexual,y,1.328,1.107,0.824,1.13,3.093,0.0898,0.1186,147,Nat. Col.,AR,
+218,AR,LZ_tube_4384,h,HS,B. treatae,,Asexual,y,1.251,1.162,0.863,1.182,3.234,0.0876,0.1158,212,Nat. Col.,AR,
+219,AR,LZ_tube_4384,i,HS,B. treatae,,Asexual,y,1.328,1.127,0.827,1.125,2.913,0.0904,0.1222,137,Nat. Col.,AR,
+226,AR,LZ_tube_4384,j,HS,B. treatae,,Asexual,y,1.237,1.117,0.787,1.173,3.011,0.0822,0.116,203,Nat. Col.,AR,
+233,AR,LZ_tube_4384,k,HS,B. treatae,,Asexual,y,1.185,1.074,0.793,1.154,3.029,0.0888,0.1212,177,Nat. Col.,AR,L wing
+234,AR,LZ_tube_4384,l,HS,B. treatae,,Asexual,y,1.206,1.075,0.861,1.068,2.739,0.0814,0.1212,137,Nat. Col.,AR,
+255,AR,LZ_tube_4384,m,HS,B. treatae,,Asexual,y,1.135,1.133,0.723,1.101,2.927,,,110,Nat. Col.,AR,
+257,AR,LZ_tube_4384,n,HS,B. treatae,,Asexual,y,1.276,1.082,0.772,1.098,2.923,,,157,Nat. Col.,AR,
+101,AR,LZ_tube_4389,a,LG,B. treatae,,Asexual,y,1.14,0.964,0.795,1.011,2.71,0.0838,0.106,168,Nat. Col.,AR,wl below more accurate
+125,AR,LZ_tube_4389,b,LG,B. treatae,,Asexual,y,1.146,0.99,0.803,1.028,2.864,0.0778,0.1098,121,Nat. Col.,AR,
+172,AR,LZ_tube_4453,a,LG,B. treatae,,Asexual,y,1.304,1.112,0.888,1.114,2.76,0.0834,0.1126,222,Nat. Col.,AR,
+111,AR,LZ_tube_4459,a,LG,B. treatae,,Asexual,y,1.247,1.139,0.871,1.05,2.973,0.0834,0.1138,258,Nat. Col.,AR,
+149,AR,LZ_tube_4459,b,LG,B. treatae,,Asexual,y,1.377,1.314,0.943,0.882,NA,0.0822,0.1172,226,Nat. Col.,AR,
+158,AR,LZ_tube_4459,c,LG,B. treatae,,Asexual,y,1.029,0.881,0.715,0.938,2.312,0.0792,0.1048,65,Nat. Col.,AR,
+205,AR,LZ_tube_4476,a,HS,B. treatae,,Asexual,y,1.148,1.004,0.763,1.041,2.745,0.0828,0.1146,105,Nat. Col.,AR,
+70,AR,LZ_tube_4480,a,LG,B. treatae,,Asexual,y,1.151,1.184,0.837,0.973,2.772,0.0752,0.0976,131,Nat. Col.,AR,
+189,AR,LZ_tube_4505,a,LG,B. treatae,,Asexual,y,1.119,1.086,0.832,0.918,2.754,0.0826,0.1112,113,Nat. Col.,AR,
+79,AR,LZ_tube_4534,a,LG,B. treatae,,Asexual,n,1.291,1.123,0.892,1.025,2.99,0.0876,0.1204,159,Nat. Col.,AR,
+91,AR,LZ_tube_4534,b,LG,B. treatae,,Asexual,y,1.189,0.947,0.709,0.997,2.928,0.0822,0.1118,150,Nat. Col.,AR,attached wing measurement cooperated
+103,AR,LZ_tube_4534,c,LG,B. treatae,,Asexual,y,1.225,1.069,0.863,1.137,2.924,0.0764,0.1074,178,Nat. Col.,AR,
+119,AR,LZ_tube_4534,d,LG,B. treatae,,Asexual,y,1.267,0.953,0.8,0.95,2.962,0.0914,0.1192,209,Nat. Col.,AR,
+123,AR,LZ_tube_4534,e,LG,B. treatae,,Asexual,y,1.022,0.832,0.68,0.831,2.608,0.087,0.1182,101,Nat. Col.,AR,
+150,AR,LZ_tube_4534,f,LG,B. treatae,,Asexual,y,1.23,1.054,0.857,1.084,2.842,0.0838,0.11,220,Nat. Col.,AR,
+178,AR,LZ_tube_4534,g,LG,B. treatae,,Asexual,y,1.197,0.795,0.691,0.973,2.807,0.0802,0.1114,18,Nat. Col.,AR,wing measured attached; abd l from above
+248,AR,LZ_tube_4543,a,HS,B. treatae,,Asexual,y,1.155,0.917,0.724,1.065,2.88,0.0844,0.1254,120,Nat. Col.,AR,
+93,AR,LZ_tube_4555,a,LG,B. treatae,,Asexual,y,1.363,1.109,0.999,0.979,NA,0.0874,0.1154,194,Nat. Col.,AR,abdomen popped off w/o chance to measure on insect
+160,AR,LZ_tube_4555,b,LG,B. treatae,,Asexual,y,1.209,NA,NA,NA,2.975,NA,NA,NA,Nat. Col.,AR,abdomen flew across room; lost
+159,AR,LZ_tube_4556,a,LG,B. treatae,,Asexual,y,1.135,0.901,0.736,0.989,2.555,0.07,0.1032,83,Nat. Col.,AR,
+161,AR,LZ_tube_4559,a,LG,B. treatae,,Asexual,y,1.175,0.922,0.758,1.089,2.752,0.0776,0.116,148,Nat. Col.,AR,
+117,AR,LZ_tube_4588,a,LG,B. treatae,,Asexual,y,1.117,1.256,1.071,1.052,2.966,NA,NA,NA,Nat. Col.,AR,abomen flew across room
+121,AR,LZ_tube_4588,b,LG,B. treatae,,Asexual,y,1.376,1.188,0.913,1.134,3.016,0.0812,0.108,203,Nat. Col.,AR,
+194,AR,LZ_tube_4588,c,LG,B. treatae,,Asexual,y,1.144,1.021,0.845,1.032,2.626,0.0798,0.1082,158,Nat. Col.,AR,
+86,AR,LZ_tube_4606,a,LG,B. treatae,,Asexual,y,1.263,1.057,0.796,0.933,2.841,0.086,0.108,174,Nat. Col.,AR,wing came off perfectly
+105,AR,LZ_tube_4606,b,LG,B. treatae,,Asexual,y,1.241,0.948,0.847,1.059,3.052,0.0826,0.1082,196,Nat. Col.,AR,
+109,AR,LZ_tube_4606,c,LG,B. treatae,,Asexual,y,1.255,1.023,0.885,0.988,2.551,0.0776,0.1042,183,Nat. Col.,AR,
+173,AR,LZ_tube_4606,d,LG,B. treatae,,Asexual,y,1.427,1.02,0.855,1.051,3.051,0.0858,0.1094,237,Nat. Col.,AR,
+81,AR,LZ_tube_4655,a,LG,B. treatae,,Asexual,y,0.898,0.849,0.645,0.941,2.783,NA,NA,NA,Nat. Col.,AR,
+97,AR,LZ_tube_4655,b,LG,B. treatae,,Asexual,y,1.087,0.807,0.665,1.051,2.952,0.0822,0.109,213,Nat. Col.,AR,
+99,AR,LZ_tube_4655,c,LG,B. treatae,,Asexual,y,1.035,0.903,0.675,1.051,2.981,0.0816,0.1076,214,Nat. Col.,AR,
+107,AR,LZ_tube_4655,d,LG,B. treatae,,Asexual,y,1.109,0.909,0.711,1.022,1.222,0.0844,0.1216,187,Nat. Col.,AR,
