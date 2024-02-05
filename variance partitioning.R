@@ -1,9 +1,6 @@
-POV(Tibia.length ~ Species, tibianew[!is.na(tibianew$Tibia.length),], Complete = TRUE)
-POV(Tibia.length ~ Species*Year, tibianew[!is.na(tibianew$Tibia.length),], Complete = TRUE)
-
+POV(Tibia.length ~ Species, data.new[!is.na(tibianew$Tibia.length),], Complete = TRUE)
 
 POV(Abdomen.Volume ~ Species, data.new[!is.na(data.new$Abdomen.Volume),], Complete = TRUE)
-
 
 POV(Wing.length~ Species, data.new[!is.na(data.new$Wing.length),], Complete = TRUE)
 
@@ -13,7 +10,7 @@ POV(Egg.Volume~ Species, data.new[!is.na(data.new$Egg.Volume),], Complete = TRUE
 
 POV(Rep.Effort~ Species, data.new[!is.na(data.new$Rep.Effort),], Complete = TRUE)
 
-morph.datanew<-morph.data[morph.data$Site!="RU",]
+morph.datanew<-morph.data[morph.data$Site!="RU",] #### RU population is neither "B. treatae" nor "B. fossoria" species
 morph.datanew<-morph.datanew[!is.na(morph.datanew$Abdomen.length1),]
 morph.datanew<-morph.datanew[!is.na(morph.datanew$Wing.length1),]
 morph.datanew$Wasp<-"B. treatae"
